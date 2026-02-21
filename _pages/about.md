@@ -11,7 +11,7 @@ Hello and Welcome! My name is **Daotan Wang**. I am a junior Mechanical Engineer
 
 In the future, I aspire to further my studies in robotic manipulation, aiming to enable robots to manipulate objects with greater precision and fluidity. Simultaneously, I also enjoy dismantling, assembling, and designing innovative robotic hardware.
 
-Please click [here]("\files\cv_wdt_4page.pdf") to view my resume ~
+Please click [here](\files\cv_wdt_forpage.pdf) to view my resume ~
 
 # Publications 
 
