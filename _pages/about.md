@@ -11,6 +11,8 @@ Hello and Welcome! My name is **Daotan Wang**. I am a junior Mechanical Engineer
 
 In the future, I aspire to further my studies in robotic manipulation, aiming to enable robots to manipulate objects with greater precision and fluidity. Simultaneously, I also enjoy dismantling, assembling, and designing innovative robotic hardware.
 
+Please click [here]("\files\cv_wdt_4page.pdf") to view my resume ~
+
 # Publications 
 
  <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">   
@@ -41,14 +43,15 @@ In the future, I aspire to further my studies in robotic manipulation, aiming to
     background-color: rgba(128, 128, 128, 0.1); /* 鼠标悬停时有一点点阴影 */
     text-decoration: none;
   }
-</style>
+</style><div style="margin-top: 15px;">       
+    <a href="https://arxiv.org/abs/2511.05858" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Paper]</a>       
+    <a href="https://chuanyune.github.io/ViTaMIn-B_page/" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Project Page]</a>      
+</div></div></div>
 
-<div style="margin-top: 15px;">
-  <a href="https://arxiv.org/abs/2511.05858" class="pub-btn">Paper</a>
-  <a href="https://chuanyune.github.io/ViTaMIn-B_page/" class="pub-btn">Project Page</a>
-</div>     
-     </div> 
-</div> 
+# Projects
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">  <!-- 下一篇论文重复上面的 div 结构即可 -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;"><div style="flex: 1; min-width: 250px; margin-right: 20px;"><img src="images/xy_stage.png" alt="XY Motion Table" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div><div style="flex: 2; min-width: 300px;"><h3 style="margin-top: 0;">Repetitive Control of XY Precision Servo Motion Table</h3><p></p><ul style="font-size: 0.95em; line-height: 1.5;"><li>Implemented and analyzed closed-loop control for a 2-DOF precision motion system.</li><li>Performed frequency-response experiments and system identification; developed parametric plant models for controller design.</li><li>Designed and tuned multi-loop controllers (current loop, encoder feedback, PID position control) to achieve stable trajectory tracking.</li><li><strong>Ongoing:</strong> Developing repetitive control to improve tracking accuracy for periodic trajectories and deploying on FPGA for real-time operation.</li></ul></div></div>
 
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;"><div style="flex: 1; min-width: 250px; margin-right: 20px;"><img src="images/UHD_ViT.png" alt="Visual Encoder Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div><div style="flex: 2; min-width: 300px;"><h3 style="margin-top: 0;">High-Definition and Efficient Visual Encoder for Intelligent Robots</h3><p></p><ul style="font-size: 0.95em; line-height: 1.5;"><li>Contributed to the design of a Vision Transformer (ViT) with progressive layer-wise token downsampling for real-time inference on high-resolution images.</li><li>Assisted in reproducing and deploying a Diffusion Policy–based UMI on a real robotic arm for stable multimodal data collection.</li><li><strong>Ongoing:</strong> Extending the system to vision–tactile perception with a slow–fast hierarchical policy inspired by Reactive Diffusion Policy (RDP).</li></ul></div></div>
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;"><div style="flex: 1; min-width: 250px; margin-right: 20px;"><img src="images/fuzzyarm.gif" alt="LLM Arm Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div><div style="flex: 2; min-width: 300px;"><h3 style="margin-top: 0;">A Fuzzy Voice Command Mechanical Arm Interaction System based on LLM</h3><p></p><ul style="font-size: 0.95em; line-height: 1.5;"><li>Designed a remote operating system for robotic arms tailored for elderly care and independent living.</li><li>Developed a low-level control module with native Simulink support, implementing point-to-point trajectory planning, singularity avoidance, and state monitoring.</li><li>Integrated a Large Language Model (LLM) to interpret ambiguous voice commands and provide natural voice feedback during execution.</li></ul></div></div>
