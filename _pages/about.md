@@ -50,19 +50,42 @@ Please click [here](\files\cv_wdt_forpage.pdf) to view my resume ~
 
 # Projects
 
+<!-- Project 1: XY Stage -->
+
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">
-<div style="flex: 1; min-width: 200px; margin-right: 20px;">
-<img src="images/xy_stage.png" alt="XY Motion Table" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1; min-width: 200px; margin-right: 20px;">
+    <img src="images/xy_stage.png" alt="XY Motion Table" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 2; min-width: 300px;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">Repetitive Control of XY Precision Servo Motion Table</h3>
+    <p style="font-size: 0.9em; line-height: 1.6; color: #586069; opacity: 0.9;">
+      I performed <strong>system identification</strong> and developed <strong>multi-loop PID controllers</strong> for a 2-DOF precision motion platform. Currently, I am focused on deploying <strong>FPGA-based repetitive control</strong> to enhance tracking accuracy for high-speed periodic trajectories.
+    </p>
+  </div>
 </div>
-<div style="flex: 2; min-width: 300px;">
-<h3 style="margin-top: 0;">Repetitive Control of XY Precision Servo Motion Table</h3>
-<p style="font-size: 0.95em; line-height: 1.6;">
-I performed <strong>system identification</strong> and developed <strong>multi-loop PID controllers</strong> for a 2-DOF precision motion platform. Currently, I am focused on deploying <strong>FPGA-based repetitive control</strong> to enhance tracking accuracy for high-speed periodic trajectories.
-</p>
-</div>
+<!-- Project 2: Visual Encoder -->
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">
+  <div style="flex: 1; min-width: 200px; margin-right: 20px;">
+    <img src="images/UHD_ViT.png" alt="Visual Encoder Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 2; min-width: 300px;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">High-Definition Visual Encoder for Intelligent Robots</h3>
+    <p style="font-size: 0.9em; line-height: 1.6; color: #586069; opacity: 0.9;">
+      I designed a real-time <strong>Vision Transformer (ViT)</strong> with token downsampling for high-resolution inference and deployed <strong>Diffusion Policies</strong> on physical robotic arms to facilitate multi-modal vision-tactile perception.
+    </p>
+  </div>
 </div>
 
-
-<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;"><div style="flex: 1; min-width: 200px; margin-right: 20px;"><img src="images/UHD_ViT.png" alt="Visual Encoder Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div><div style="flex: 2; min-width: 300px;"><h3 style="margin-top: 0;">High-Definition Visual Encoder for Intelligent Robots</h3><p style="font-size: 0.95em; line-height: 1.6;">I designed a real-time <strong>Vision Transformer (ViT)</strong> with token downsampling for high-resolution inference and deployed <strong>Diffusion Policies</strong> on physical robotic arms to facilitate multi-modal vision-tactile perception.</p></div></div>
-
-<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;"><div style="flex: 1; min-width: 200px; margin-right: 20px;"><img src="images/fuzzyarm.gif" alt="LLM Arm Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div><div style="flex: 2; min-width: 300px;"><h3 style="margin-top: 0;">Fuzzy Voice Command Robotic Arm System based on LLM</h3><p style="font-size: 0.95em; line-height: 1.6;">I developed a robotic interaction system that integrates <strong>LLMs for ambiguous voice command interpretation</strong> with a low-level <strong>Simulink control module</strong> for trajectory planning and singularity avoidance.</p></div></div>
+<!-- Project 3: LLM Arm -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">
+  <div style="flex: 1; min-width: 200px; margin-right: 20px;">
+    <img src="images/fuzzyarm.gif" alt="LLM Arm Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 2; min-width: 300px;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">Fuzzy Voice Command Robotic Arm System based on LLM</h3>
+    <p style="font-size: 0.9em; line-height: 1.6; color: #586069; opacity: 0.9;">
+      I developed a robotic interaction system that integrates <strong>LLMs for ambiguous voice command interpretation</strong> with a low-level <strong>Simulink control module</strong> for trajectory planning and singularity avoidance.
+    </p>
+  </div>
+</div>
