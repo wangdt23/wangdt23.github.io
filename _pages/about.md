@@ -76,10 +76,11 @@ Please click [here](\files\cv_wdt_forpage.pdf) to view my resume ~
   <div style="flex: 2; min-width: 300px;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">High-Definition Visual Encoder for Intelligent Robots</h3>
     <p style="font-size: 0.9em; line-height: 1.6; color: #586069; opacity: 0.9;">
-      I designed a real-time <strong>Vision Transformer (ViT)</strong> with token downsampling for high-resolution inference and deployed <strong>Diffusion Policies</strong> on physical robotic arms to facilitate multi-modal vision-tactile perception.
+      I attributed to design a real-time <strong>Vision Transformer (ViT)</strong> with token downsampling for high-resolution inference and deployed <strong>Diffusion Policies</strong> on physical robotic arms to facilitate multi-modal vision-tactile perception.
     </p>
   </div>
 </div>
+
 
 <!-- Project 3: LLM Arm -->
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">
