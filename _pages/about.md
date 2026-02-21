@@ -13,4 +13,20 @@ In the future, I aspire to further my studies in robotic manipulation, aiming to
 
 # Publications 
 
- <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">   <!-- 左侧：图片或动图 -->   <div style="flex: 1; min-width: 250px; margin-right: 20px;">     <img src="/images/publications/vitamin-b.gif" alt="ViTaMIn-B Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">   </div>    <!-- 右侧：文字信息 -->   <div style="flex: 2; min-width: 300px;">     <h3 style="margin-top: 0;">ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface</h3>     <p>Author 1, <strong>Your Name</strong>, Author 3, Author 4</p>     <p><i>IEEE Robotics and Automation Letters (RA-L)</i>, Under Review, 2025</p>          <!-- 按钮链接 -->     <div style="margin-top: 15px;">       <a href="你的PDF链接" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Paper]</a>       <a href="你的项目主页链接" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Project Page]</a>       <a href="你的视频链接" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em;">[Video]</a>     </div>   </div> </div>  <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">  <!-- 下一篇论文重复上面的 div 结构即可 -->
+ <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">   
+     <!-- 左侧：图片或动图 -->   
+     <div style="flex: 1; min-width: 250px; margin-right: 20px;">     
+         <img src="images\vitamin-b.png" alt="ViTaMIn-B Project" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">   
+     </div>    <!-- 右侧：文字信息 -->  
+     <div style="flex: 2; min-width: 300px;">     
+         <h3 style="margin-top: 0;">ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface</h3>  
+         <p>Chuanyu Li*,Chaoyi Liu* <strong>Daotan Wang</strong>,Shuyu Zhang, Lusong Li, Zecui Zeng, Fangchen Liu, Jing Xu, Rui Chen</p>    
+         <p><i>IEEE Robotics and Automation Letters (RA-L)</i>, Under Review, 2025</p>         
+         <!-- 按钮链接 -->     
+         <div style="margin-top: 15px;">       
+             <a href="https://arxiv.org/abs/2511.05858" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">Paper</a>      
+             <a href="https://chuanyune.github.io/ViTaMIn-B_page/" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-right: 10px;">Project Page</a>                 
+         </div>   
+     </div> 
+</div> 
+<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">  <!-- 下一篇论文重复上面的 div 结构即可 -->
