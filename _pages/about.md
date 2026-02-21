@@ -13,6 +13,10 @@ In the future, I aspire to further my studies in robotic manipulation, aiming to
 
 Please click [here](\files\cv_wdt_forpage.pdf) to view my resume ~
 
+# News
+
++ **[2026/02]** Very happy to have created this homepage!
+
 # Publications 
 
  <div style="display: flex; flex-wrap: wrap; margin-bottom: 40px; align-items: flex-start;">   
