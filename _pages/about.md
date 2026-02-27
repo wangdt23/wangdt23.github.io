@@ -15,7 +15,7 @@ Please click [here](\files\cv_wdt_forpage.pdf) to view my resume ~
 
 # News
 
-+ **[2026/02] **I’m going to join the UW RSE-Lab directed by Prof.Dieter Fox as a research intern this summer.I am eagerly anticipating this opportunity!
++ **[2026/02]**I’m going to join the UW RSE-Lab directed by Prof.Dieter Fox as a research intern this summer.I am eagerly anticipating this opportunity!
 
 + **[2026/02]** Very happy to have created this homepage!
 
